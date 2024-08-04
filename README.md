@@ -55,7 +55,7 @@ Welcome to our gym website! This platform is designed to provide a seamless expe
 
 1. **Responsive Design**:
 
-   - Ensuring that the website looks good on all devices was a significant challenge. Tailwind CSS was instrumental in making this process easier, but it still required careful planning and testing.
+   - Ensuring that the website looks good on all devices was a significant challenge. CSS was instrumental in making this process easier, but it still required careful planning and testing.
 
 2. **Form Handling**:
    - Ensuring the contact form works reliably and securely required attention to detail.
