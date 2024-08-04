@@ -49,6 +49,7 @@ Welcome to our gym website! This platform is designed to provide a seamless expe
   - **HTML**
   - **CSS**
   - **JAVASCRIPT**
+  - **JQUERY**
   - **Google Maps API**
 
 ### Challenges Faced
