@@ -61,7 +61,7 @@ Welcome to our gym website! This platform is designed to provide a seamless expe
    - Ensuring the contact form works reliably and securely required attention to detail.
 
 ### Live Website Link: https://superb-toffee-1965ab.netlify.app
-### Github Repository Ljnk: https://github.com/Shivam2906-ui/Gym_Website
+### Github Repository Link: https://github.com/Shivam2906-ui/Gym_Website
   
 
 We hope this documentation provides a clear understanding of the tech stack used and the challenges faced during the development of our gym website. Thank you for your interest!
