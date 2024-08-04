@@ -46,11 +46,9 @@ Welcome to our gym website! This platform is designed to provide a seamless expe
 
 ### Tech Stack
 
-- **Frontend**:
   - **HTML**
   - **CSS**
   - **JAVASCRIPT**
-- **Others**:
   - **Google Maps API**
 
 ### Challenges Faced
