@@ -11,7 +11,7 @@ Welcome to our gym website! This platform is designed to provide a seamless expe
 ### Gym Services, Classes, and Membership Options
 
 - **Services**: We showcase all the services our gym offers, including Cardiovascular Equipment, Strength Training Equipment, Group Fitness Class and more.
-- **Classes**: Detailed information about the variety of classes available, such as yoga, pilates, HIIT, and strength training.
+- **Classes**: Detailed information about the variety of classes available, such as strength training.
 - **Membership Options**: Clear presentation of our membership plans, including pricing and benefits, to help users choose the best option for their needs.
 
 ### Testimonials Section
